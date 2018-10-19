@@ -538,4 +538,3 @@ Note that the UDFs we created are saved in your schema and can be accessed via E
 
 <img src="screenshots/exaplus_scripts.png" alt="EXAPlus scripts" height="700" />
 
-Next: [Install additional R packages in Exasol](05_install_additional_r_packages.md)
